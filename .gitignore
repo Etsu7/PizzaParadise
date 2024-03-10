@@ -1,0 +1,10 @@
+# Ignorer le dossier VS Code
+.vscode/
+
+# Ignorer les fichiers de configuration spécifiques
+settings.json
+
+#Ignoring binary files
+*.class
+
+.classpath
