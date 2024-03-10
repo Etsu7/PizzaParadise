@@ -50,6 +50,6 @@ Ensuite, ll ne vous reste plus qu'à lancer votre serveur et vous rendre à l'ad
 
 ### Application Java 
 
-Pour l'Application Java, il faut rentrer l'URL de connexion à votre serveur MySQL dans le fichier model\OutilsJDBC.java dans la variable url. 
+Pour l'application Java, il faut rentrer l'URL de connexion à votre serveur MySQL dans le fichier model\OutilsJDBC.java dans la variable url. 
 
 Ensuite, il suffit d'éxécuter la classe Main.java.
